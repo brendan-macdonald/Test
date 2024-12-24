@@ -1,10 +1,3 @@
-/**
- * Fragment from React Photo Gallery component.
- * By Sandra Gonzales @neptunian
- * @link https://github.com/neptunian/react-photo-gallery
- * The MIT License (MIT)
- * Copyright (c) 2015-2018 Sandra Gonzales
- */
 
 import React from "react";
 import PropTypes from "prop-types";
